@@ -8,6 +8,6 @@ System.out.println("Addition of integers upto 10");
 		add=add+i;
 		}
 System.out.println(add);
-	
+	System.out.println(add);
 }
 }
