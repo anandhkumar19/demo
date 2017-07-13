@@ -7,7 +7,8 @@ System.out.println("Addition of integers upto 10");
 	for(int i=0;i<=10;i++){
 		add=add+i;
 		}
+
 System.out.println("The number is" +add);
-	
+
 }
 }
